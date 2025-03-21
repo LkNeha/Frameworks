@@ -1,0 +1,8 @@
+The following HTR file consists all the frameworks used to handwritten conversion:
+1. Tesseract OCR 
+2. Paddle OCR
+3. Easy OCR
+
+Each of the methods vary from each other based on the accuracy ans speed;
+Tesseract works faster but compromises in the accuarcy 
+Meanwhile Easy OCR makes sure to be accurate but slower when compared to other two methodology

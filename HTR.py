@@ -37,8 +37,8 @@ print(extracted_text)
 #     print(line)
 
 
-# import easyocr
+import easyocr
 
-# reader = easyocr.Reader(['en'])  # Load English model
-# text = reader.readtext('hand1.jpg', detail=0)
-# print(text)
+reader = easyocr.Reader(['en'])  # Load English model
+text = reader.readtext('hand1.jpg', detail=0)
+print(text)
