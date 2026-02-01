@@ -1,0 +1,32 @@
+Introduction to Python
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It emphasizes clear syntax, which makes it beginner-friendly yet powerful for advanced programming. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Key Features
+
+Easy to Read and Write: Simple syntax similar to English.
+
+Interpreted: Executes code line by line, making debugging easier.
+
+Cross-Platform: Runs on Windows, macOS, Linux, and more.
+
+Extensive Libraries: Offers libraries like NumPy, Pandas, Matplotlib, TensorFlow, and Flask.
+
+Open Source: Free to use with a large developer community.
+
+Common Uses
+
+Web Development: Using frameworks like Django and Flask.
+
+Data Science: For data analysis, visualization, and machine learning.
+
+Automation: Writing scripts to automate repetitive tasks.
+
+Software Development: Building desktop apps, games, and APIs.
+
+Artificial Intelligence: Implementing AI and ML models efficiently.
+
+a = 5
+b = 3
+sum = a + b
+print("Sum:", sum)
